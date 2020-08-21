@@ -1,0 +1,20 @@
+#cajaColor{
+    background-color: greenyellow;
+    size: 150px;
+    margin: 10px;
+}
+#visitante{
+    color: orangered;
+    font-weight: bolder;
+    font-size: larger;
+}
+#familiar , #externo{
+    font-weight: bold;
+}
+#inscribirse{
+    background-color: transparent;
+    border-radius: 4px;
+    border-block-width: 1px;
+    border-block-color: grey;
+   
+}
